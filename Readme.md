@@ -8,4 +8,4 @@
 
 ### Демонстрация работы программы:
 
-![image](https://user-images.githubusercontent.com/90133237/224476841-427a96f6-5ce7-4d7e-ab01-046a0c7da9c8.png)
+![image](https://user-images.githubusercontent.com/90133237/224476899-5018da00-ba6c-4925-805a-fb5ba158b107.png)
