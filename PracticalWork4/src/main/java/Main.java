@@ -34,7 +34,7 @@ public class Main extends JFrame {
                 Shape line9 = new Line2D.Double(220, 200, 245, 200);
                 Shape line10 = new Line2D.Double(120, 150, 245, 200);
 
-                Shape circle = new Ellipse2D.Double(200, 150, 100, 100);
+                Shape circle = new Ellipse2D.Double(200, 150, 90, 90);
                 g2.draw(line);
                 g2.draw(line2);
                 g2.draw(line3);
@@ -48,7 +48,7 @@ public class Main extends JFrame {
                 g2.draw(circle);
                 Font font = new Font("Georgia", Font.BOLD, 50);
                 TextLayout textLayout = new TextLayout("UAZ", font, g2.getFontRenderContext());
-                textLayout.draw(g2, 195, 250);
+                textLayout.draw(g2, 190, 250);
             }
         };
         setTitle("UAZ");
